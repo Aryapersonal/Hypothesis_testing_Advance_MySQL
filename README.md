@@ -3,6 +3,8 @@
 
 ## Preview of SQL query execution
 
+https://github.com/user-attachments/assets/2b3dc6ae-e152-4e49-acb9-4780d15832df
+
 
 
 ## Overview
